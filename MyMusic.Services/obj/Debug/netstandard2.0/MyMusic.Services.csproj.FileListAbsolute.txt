@@ -1,0 +1,12 @@
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.deps.json
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.pdb
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Core.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.csprojAssemblyReference.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.AssemblyInfoInputs.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.AssemblyInfo.cs
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.csproj.CopyComplete
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.pdb

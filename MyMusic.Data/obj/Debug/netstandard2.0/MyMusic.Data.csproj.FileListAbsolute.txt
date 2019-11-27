@@ -1,0 +1,12 @@
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CoreCompileInputs.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfoInputs.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfo.cs
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csprojAssemblyReference.cache
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.deps.json
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.pdb
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CopyComplete
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.dll
+D:\Custom Projects\MyGithub\MyMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.pdb
